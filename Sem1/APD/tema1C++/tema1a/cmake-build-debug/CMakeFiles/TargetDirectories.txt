@@ -1,0 +1,3 @@
+C:/Users/Matei/Documents/UPB/Anul3/Sem1/APD/tema1C++/tema1a/cmake-build-debug/CMakeFiles/tema1a.dir
+C:/Users/Matei/Documents/UPB/Anul3/Sem1/APD/tema1C++/tema1a/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Matei/Documents/UPB/Anul3/Sem1/APD/tema1C++/tema1a/cmake-build-debug/CMakeFiles/rebuild_cache.dir
